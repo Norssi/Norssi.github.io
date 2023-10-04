@@ -1,4 +1,4 @@
-##<Joel Puntala> web tehtävä
+## <Joel Puntala> web tehtävä
 
 
 Writing in Markdown is _not_ that hard!
@@ -9,26 +9,26 @@ I **will** complete these lessons!
 
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
-##_HEADERS_
+## _HEADERS_
 
-#Header one
-##Header two
-###Header three
-####Header four
-#####Header five
-######Header six
+# Header one
+## Header two
+### Header three
+#### Header four
+##### Header five
+###### Header six
 
-####Colombian Symbolism in _One Hundred Years of Solitude_
+#### Colombian Symbolism in _One Hundred Years of Solitude_
 
 Here's some words about the book _One Hundred Years..._.
 
-##_LINKS_
+## _LINKS_
 
 [Search for it.](www.google.com)
 
 [You're **really, really** going to want to see this.](www.dailykitten.com)
 
-####The Latest News from [the BBC](www.bbc.com/news)
+#### The Latest News from [the BBC](www.bbc.com/news)
 
 Do you want to [see something fun][a fun place]?
 
@@ -38,7 +38,7 @@ Well, do I have [the website for you][another fun place]!
 [another fun place]: www.stumbleupon.com
 
 
-##_IMAGES_
+## _IMAGES_
 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
@@ -64,7 +64,7 @@ I read this interesting quote the other day:
 
 >He left her quickly, fearing that her intimacy might turn to jibing and wishing to be out of the way before she offered her ware to another, a tourist from England or a student of Trinity. Grafton Street, along which he walked, prolonged that moment of discouraged poverty. In the roadway at the head of the street a slab was set to the memory of Wolfe Tone and he remembered having been present with his father at its laying. He remembered with bitterness that scene of tawdry tribute. There were four French delegates in a brake and one, a plump smiling young man, held, wedged on a stick, a card on which were printed the words: _VIVE L'IRLANDE_!
 
-##_LISTS_
+## _LISTS_
 
 * Flour
 * Cheese
@@ -83,13 +83,13 @@ I read this interesting quote the other day:
 <br />
 
 * Calculus
- * A professor
- * Has no hair
- * Often wears green
+  * A professor
+  * Has no hair
+  * Often wears green
 * Castafiore
- * An opera singer
- * Has white hair
- * Is possibly mentally unwell
+  * An opera singer
+  * Has white hair
+  * Is possibly mentally unwell
 
  1. Cut the cheese
 
@@ -101,7 +101,7 @@ I read this interesting quote the other day:
   
   For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
 
-##_PARAGRAPHS_
+## _PARAGRAPHS_
 
   We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
