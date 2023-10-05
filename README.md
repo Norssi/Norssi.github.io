@@ -1,4 +1,4 @@
-## <Joel Puntala> web tehtävä
+## Joel Puntala web tehtävä
 
 
 Writing in Markdown is _not_ that hard!
